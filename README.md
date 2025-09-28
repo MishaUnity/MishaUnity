@@ -1,4 +1,9 @@
-## Hi there 👋
+## Spaaaaaaace 🌌
+![R](https://github.com/user-attachments/assets/1fc2e557-304e-4e42-b716-90fe6016ad2b)
+
+🌱 Учусь декорировать свою страничку 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MishaUnity&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MishaUnity/MishaUnity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
