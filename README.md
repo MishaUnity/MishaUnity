@@ -1,10 +1,13 @@
 ## Spaaaaaaace 🌌
 ![R](https://github.com/user-attachments/assets/1fc2e557-304e-4e42-b716-90fe6016ad2b)
 
-```
-✨ Знаю JavaScript, Python, C#
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MishaUnity&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## ✨ Знаю JavaScript, Python, C# 
+<p align="right">
 И нет, мой ник не связан с движком Unity
-```
+</p>
+
 
 TODO Лист:
 - [x] 🌱 Научиться декорировать свою страничку 
